@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# sanity api
+/medium/
+
 # production
 /build
 
